@@ -12,3 +12,13 @@
 <img width="1366" height="768" alt="tp4 3" src="https://github.com/user-attachments/assets/fb2e9ee9-ae53-4ef6-bd42-cffd291ce862" />
 <img width="1366" height="768" alt="TP4 4" src="https://github.com/user-attachments/assets/5a8ff3a3-d3dc-4d2b-81c2-71203f06e933" />
 <img width="532" height="135" alt="TP 44" src="https://github.com/user-attachments/assets/d57b0a5b-c14c-41cb-87e7-ba6e19048706" />
+#etape5:
+TP N° 2 : Classes et Objets Langage JAVA 
+exercice 1:
+<img width="1366" height="768" alt="exercice1" src="https://github.com/user-attachments/assets/dd351ecc-f25e-4a7e-b0ad-74d6457aafcd" />
+<img width="1366" height="768" alt="exercice1 1" src="https://github.com/user-attachments/assets/9569e1c3-bc33-4eab-a8fe-add6d3dd7033" />
+<img width="1366" height="768" alt="execice1 2" src="https://github.com/user-attachments/assets/fd37daeb-07b7-4f2a-b6f5-ddfe8f10e7d0" />
+exercice 2:
+<img width="699" height="506" alt="Capture" src="https://github.com/user-attachments/assets/d2dc3602-dc8c-42dc-97e8-2deafa5de4c1" />
+exercice 3:
+<img width="666" height="488" alt="1" src="https://github.com/user-attachments/assets/83ab4ce3-b7d9-493a-a68d-26c854d9c736" />
